@@ -1,0 +1,12 @@
+JS is a
+lighweight  -->  Small Memory footprint
+interpreted  --> no compilation instrutions executed directly
+object oriented --> Modeled Around Objects
+firs-class functions --> functions can be pass as a parameter
+scripting langauage  ---> Instructions wrriten for a runtime enviourment
+
+Runtime env
+
+HTML  -->   Browser -- > Builds a DOM Tree
+static+ JS -> Browser  --> Builds a DOM Tree But can change a DOM structure
+
